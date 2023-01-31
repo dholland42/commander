@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# svelte-kit build intermediaries
+.svelte-kit/
