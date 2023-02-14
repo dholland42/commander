@@ -4,7 +4,7 @@
 	import User from '$lib/icons/User.svelte';
 </script>
 
-<div class="btm-nav">
+<div class="btm-nav md:hidden">
 	<a href="/" class="active">
 		<Home />
 	</a>

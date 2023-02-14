@@ -6,7 +6,7 @@
 
 <div class="navbar bg-base-100 mb-2">
 	<div class="navbar-start">
-		<div class="dropdown">
+		<div class="dropdown hidden md:block">
 			<label tabindex="0" class="btn btn-ghost btn-circle">
 				<MenuIcon />
 			</label>
@@ -27,6 +27,6 @@
 		<a href="/">
 			<Github />
 		</a>
-		<Themetoggle width={10} height={10} />
+		<Themetoggle />
 	</div>
 </div>
